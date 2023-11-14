@@ -49,5 +49,6 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "rgb(253,253,253)",
+    marginBottom: 50,
   },
 });
