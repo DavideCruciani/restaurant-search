@@ -18,7 +18,7 @@ export default function HomeScreen() {
       imageUrl: require("../assets/images/pizza.png"),
     },
     {
-      name: "Desert",
+      name: "Dessert",
       imageUrl: require("../assets/images/cake.png"),
     },
     {
